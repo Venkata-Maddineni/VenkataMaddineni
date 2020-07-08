@@ -9,5 +9,11 @@ git shortlog -sne
 git remote add origin https://github.com/Venkata-Maddineni/VenkataMaddineni.git
 git push -u origin master
 
-
+create and got to that branch
 git checkout -b feature2
+
+
+SAVE: 
+
+git stash
+git stash list
