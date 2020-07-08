@@ -3,3 +3,8 @@ git config --global user.email maddinenivenkatasailohith@outlook.com
 
 
 https://education.github.com/git-cheat-sheet-education.pdf
+
+git shortlog -sne
+
+git remote add origin https://github.com/Venkata-Maddineni/VenkataMaddineni.git
+git push -u origin master
